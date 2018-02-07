@@ -1,6 +1,6 @@
 /* Algo 616 1.1 Number 5. Comparison < m*n by saad iqbal */
 
-#include<stdio.h>
+#include <stdio.h>
 typedef int boolean;
 #define true 1
 #define false 0

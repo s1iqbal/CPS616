@@ -1,0 +1,4 @@
+C:\Users\Saad\source\CPS616\Lecture 2 - Algo Fundamentals\1.4\excercise1.c: In function 'main':
+C:\Users\Saad\source\CPS616\Lecture 2 - Algo Fundamentals\1.4\excercise1.c:31:16: error: invalid initializer
+ int array[5] = delete(arr, 3);
+                ^

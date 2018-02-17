@@ -1,0 +1,12 @@
+C:\Users\Saad\source\CPS616\labs\lab03.c:11:8: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'int'
+ Global int m, n, surface[m,n];
+        ^
+C:\Users\Saad\source\CPS616\labs\lab03.c:13:1: warning: data definition has no type or storage class
+ Initialise(surface); // fills surface with initial values of CLEAR or OBSTACLE
+ ^
+C:\Users\Saad\source\CPS616\labs\lab03.c:13:1: warning: type defaults to 'int' in declaration of 'Initialise' [-Wimplicit-int]
+C:\Users\Saad\source\CPS616\labs\lab03.c:13:1: warning: parameter names (without types) in function declaration
+C:\Users\Saad\source\CPS616\labs\lab03.c: In function 'Spill':
+C:\Users\Saad\source\CPS616\labs\lab03.c:16:5: error: expected '(' before 'strength'
+  if strength =0 return
+     ^
